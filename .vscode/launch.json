@@ -10,6 +10,7 @@
       "name": "Debug with LLDB",
       "program": "${workspaceFolder}/target/debug/learn-rust",
       "args": [],
+      "preLaunchTask": "Build Rust",
       "cwd": "${workspaceFolder}"
     }
   ]
